@@ -1,0 +1,16 @@
+# Variáveis de ambiente
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+
+output.json
+
